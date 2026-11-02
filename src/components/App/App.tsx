@@ -14,6 +14,7 @@ import { fetchMovies } from '../../services/movieService';
 import type { Movie } from '../../types/movie';
 import styles from './App.module.css';
 
+
 const ReactPaginate =
   ReactPaginateModule as unknown as ComponentType<ReactPaginateProps>;
 
